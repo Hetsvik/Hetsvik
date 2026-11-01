@@ -1,5 +1,5 @@
 <!-- Banner de imagen (Puedes crear uno personalizado en Canva o usar un GIF) -->
-<img src="https://via.placeholder.com/1000x250/1e1e1e/ffffff?text=Hello+World!+I'm+Israel+Rodrigo+Ochoa" alt="Header Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,434343,1E90FF&height=250&section=header&text=Hello%20World,%20I'm%20Israel&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Someone%20learning%20systems...&descSize=20" alt="Banner Hetsvik" width="100%"/>
 
 # Hi there 👋, I'm Israel Rodrigo Ochoa Mejia (Hetsvik)
 
