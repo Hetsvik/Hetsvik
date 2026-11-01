@@ -1,16 +1,41 @@
-## Hi there 👋
+<!-- Banner de imagen (Puedes crear uno personalizado en Canva o usar un GIF) -->
+<img src="https://via.placeholder.com/1000x250/1e1e1e/ffffff?text=Hello+World!+I'm+Israel+Rodrigo+Ochoa" alt="Header Banner" width="100%"/>
 
-<!--
-**Hetsvik/Hetsvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Israel Rodrigo Ochoa Mejia (Hetsvik)
 
-Here are some ideas to get you started:
+### Someone learning systems... :)) | Peru 🇵🇪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate developer continuously learning and exploring new technologies in systems and software development. I enjoy building things, solving problems, and currently, I'm just "thinking on vacations.... 🌴".
+
+- 🔭 I’m currently working on **Sistema-Asistencia-Click-up**
+- 🌱 I’m currently learning **Java, Node.js, SQL, Power BI, JavaScript**
+<!-- 👯 I’m looking to collaborate on **[AQUÍ TIPO DE PROYECTOS U OPEN SOURCE]**-->
+- 💬 Ask me about **Technology, VideoGames, Anything**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/israel-rodrigo-ochoa-mejia/)
+
+---
+
+### 🛠️ Languages and Tools:
+<!-- Aquí puedes agregar tus propios badges de Shields.io -->
+<p align="left">
+  <!-- Ejemplos: cámbialos por las tecnologías que tú uses -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,java,git,github,vscode" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<!-- Estas tarjetas se generan automáticamente con tu usuario -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hetsvik&show_icons=true&theme=radium&hide_border=true" alt="Hetsvik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hetsvik&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+</div>
+
+<br/>
+
+<!-- Contador de visitas opcional -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hetsvik&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
